@@ -45,9 +45,9 @@ const workExperiences: WorkExperience[] = [
 // Content Data
 const projects: Project[] = [
   {
-    title: "Distributed Inference Engine",
-    description: "A low-latency system for serving large language models across edge devices using quantized weights. Optimized for constrained memory environments.",
-    stack: ["Rust", "Python", "gRPC", "CUDA"],
+    title: "Cyclone Risk Analysis Platform",
+    description: "A data-driven system for analyzing tropical cyclone patterns in the North Indian Ocean. Focused on seasonal risk, intensity trends, and regional impact assessment.",
+    stack: ["Python", "Typescript"],
     links: [
       { label: "GitHub", url: "https://github.com" },
       { label: "Demo", url: "https://demo.com" }
