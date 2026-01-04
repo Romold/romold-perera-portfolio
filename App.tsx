@@ -50,7 +50,8 @@ const projects: Project[] = [
     stack: ["Python", "Typescript"],
     links: [
       { label: "GitHub", url: "https://github.com" },
-      { label: "Demo", url: "https://demo.com" }
+      { label: "Demo", url: "https://demo.com" },
+      { label: "Kaggle Models", url: "https://kaggle.com" }
     ]
   },
   {
