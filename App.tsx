@@ -49,9 +49,9 @@ const projects: Project[] = [
     description: "A data-driven system for analyzing tropical cyclone patterns in the North Indian Ocean. Focused on seasonal risk, intensity trends, and regional impact assessment.",
     stack: ["Python", "Typescript"],
     links: [
-      { label: "GitHub", url: "https://github.com" },
-      { label: "Demo", url: "https://demo.com" },
-      { label: "Kaggle Models", url: "https://kaggle.com" }
+      { label: "GitHub", url: "https://github.com/Romold/cycloneanalytics--1-" },
+      { label: "Demo", url: "https://cycloneanalytics.vercel.app/" },
+      { label: "Kaggle Models", url: "https://www.kaggle.com/code/neonboy19/ditwah-analysis" }
     ]
   },
   {
