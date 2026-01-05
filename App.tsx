@@ -55,11 +55,11 @@ const projects: Project[] = [
     ]
   },
   {
-    title: "Semantic Log Analyzer",
-    description: "Automated anomaly detection pipeline for distributed system logs using RAG (Retrieval-Augmented Generation) to correlate errors with codebase changes.",
-    stack: ["TypeScript", "Elasticsearch", "OpenAI API", "Docker"],
+    title: "Modern Data Engineering Architecture with Microsoft Fabric",
+    description: "A hybrid data pipeline designed using Microsoft Fabric and Azure, implementing a Bronze–Silver–Gold model for reliable ingestion, structured transformation, and analytics-ready data delivery across cloud and on-premise sources.",
+    stack: ["Microsoft Fabric", "Azure Data Lake", "Dataflow Gen2", "SQL", "Power BI"],
     links: [
-      { label: "GitHub", url: "https://github.com" }
+      { label: "GitHub", url: "https://github.com/Romold/Data-Engineering-Architecture-with-Fabric-Analytics-Learning-project-" }
     ]
   },
   {
