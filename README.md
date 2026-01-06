@@ -5,7 +5,6 @@ This is just my personal portfolio to show my recent projects
 and my litereture that I have written.
 
 The theme was inspired by Cursor's Website because I love the minimalistic theme they have chosen.  
-( Me and Chatgpt tried our best to imitate the theme with my limited knowledge in typescript :< )
 
 <img width="1897" height="933" alt="image" src="https://github.com/user-attachments/assets/400845e1-aa5a-4299-867c-5fa8b162f53b" />
 
