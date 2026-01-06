@@ -1,20 +1,13 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Portfolio
 
-# Run and deploy your AI Studio app
+This is just my personal portfolio to show my recent projects  
+( well notable ones at least )  
+and my litereture that I have written.
 
-This contains everything you need to run your app locally.
+The theme was inspired by Cursor's Website because I love the minimalistic theme they have chosen.  
 
-View your app in AI Studio: https://ai.studio/apps/drive/1p3GkJEcpPLnO71p5Pnfx4DnifmSkD4T_
+<img width="1897" height="933" alt="image" src="https://github.com/user-attachments/assets/400845e1-aa5a-4299-867c-5fa8b162f53b" />
 
-## Run Locally
+<img width="1898" height="943" alt="image" src="https://github.com/user-attachments/assets/0e7233aa-f83c-49ec-9ffb-22cbb5fda171" />
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Made with 💙 Romold
