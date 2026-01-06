@@ -63,11 +63,11 @@ const projects: Project[] = [
     ]
   },
   {
-    title: "Neural Architecture Search CLI",
-    description: "Command-line tool for automating hyperparameter tuning and architecture selection for vision transformers.",
-    stack: ["Python", "PyTorch", "Ray Tune"],
+    title: "COVID-19 Data ETL Pipeline",
+    description: "Automated pipeline for extracting, cleaning, and storing historical COVID-19 time-series data into structured datasets and a relational database for analysis.",
+    stack: ["Python"],
     links: [
-      { label: "GitHub", url: "https://github.com" }
+      { label: "GitHub", url: "https://github.com/Romold/CovidPipeline"}
     ]
   }
 ];
